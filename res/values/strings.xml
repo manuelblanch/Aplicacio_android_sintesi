@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Consolegeneration</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_inicio">Inicio</string>
+    
+    <string-array name="nav_options">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+    </string-array>
+    
+     <string name="hello">Choose one of the features below.</string>
+
+   
+    <string name="ProductesActivityTitle">Llista Productes</string>
+    
+    
+
+</resources>
